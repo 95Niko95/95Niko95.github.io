@@ -42,3 +42,6 @@
 .product-icons img:active {
     opacity:1;
 }
+.container{
+    display: flex;
+}
